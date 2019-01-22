@@ -1,0 +1,48 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"autocomplete_builtins": true,
+	"autocomplete_closures": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip"
+	],
+	"caret_extra_bottom": 4,
+	"caret_extra_top": 4,
+	"caret_extra_width": 3,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"default_root": "default",
+	"draw_white_space": "all",
+	"draw_white_space_lineendings": true,
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"grey_antialias"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"mnemonic": "*",
+	"overlay_scroll_bars": "enabled",
+	"swallow_startup_errors": true,
+	"tab_size": 4,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"vintage_start_in_command_mode": false
+}

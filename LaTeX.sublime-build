@@ -1,0 +1,7 @@
+{
+  "cmd": "start /min build.bat",
+  "working_dir": "${project_path:${folder}}",
+  "windows" : {
+      "shell": true
+  }
+}
